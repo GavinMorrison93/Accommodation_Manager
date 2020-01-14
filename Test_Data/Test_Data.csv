@@ -1,0 +1,19 @@
+Name,Diet,Location,Smoker or Not,Snores or Not,Nocturnal Habits,Previous Attendance,Type of Room,Share with
+John,Veggie,Ireland,Smoker,Snores,Night Owl,3,Double,Paula
+Mary,Omni,UK,Non-Smoker,Light Sleeper,Early Bird,2,Single,
+Mike,Vegan,Belgium,Smoker,Snores,Night Owl,1,Shared,James
+Paula,Omni,Norway,Smoker,Light Sleeper,Night Owl,4,Double,John
+George,Veggie,Germany,Non-Smoker,Light Sleeper,Early Bird,5,Double,Phil
+Phil,Vegan,Germany,Smoker,Snores,Early Bird,4,Double,George
+Paul,Omni,Germany,Smoker,Light Sleeper,Night Owl,7,Shared,James
+Judy,Veggie,UK,Non-Smoker,Snores,Early Bird,3,Shared,Lisa
+Lisa,Omni,Ireland,Smoker,Light Sleeper,Night Owl,2,Shared,
+Vincent,Omni,Belgium,Non-Smoker,Snores,Early Bird,2,Shared,
+James,Omni,Norway,Smoker,Light Sleeper,Night Owl,3,Shared,
+Bob,Omni,Ireland,Non-Smoker,Light Sleeper,Early Bird,3,Double,Jill
+Jill,Omni,Germany,Smoker,Light Sleeper,Early Bird,2,Double,Bob
+Pete,Omni,Norway,Non-Smoker,Light Sleeper,Early Bird,5,Double,Suzy
+Fred,Omni,UK,Smoker,Light Sleeper,Early Bird,2,Double,Saskia
+Suzy,Omni,Belgium,Non-Smoker,Light Sleeper,Early Bird,3,Double,Pete
+Saskia,Omni,Sweden,Smoker,Light Sleeper,Early Bird,4,Double,Fred
+Jim,Omni,Sweden,Smoker,Light Sleeper,Night Owl,3,Double,Jim
