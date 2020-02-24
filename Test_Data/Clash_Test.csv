@@ -1,0 +1,6 @@
+Name,Type of Room,Share with,Not Share With
+James,Shared,,
+Mike,Shared,James,
+Paul,Shared,James,
+Lisa,Shared,,James
+Paul,Shared,Mike,James

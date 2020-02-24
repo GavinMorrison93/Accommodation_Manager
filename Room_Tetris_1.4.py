@@ -59,7 +59,7 @@ exported_file = "C:/Users/Gav/Desktop/Accommodation_Manager/Exported_Files/my_fi
 #Create CSV file for export with header line only
 f = open(exported_file, "w", newline='')
 writer = csv.DictWriter(
-    f, fieldnames=[" ", "Name", "Diet", "Location", "Smoker or Not", "Snores or Not", "Nocturnal Habits", "Previous Attendance", "Type of Room", "Share with"])
+    f, fieldnames=[" ", "Name", "Diet", "Location", "Smoker or Not", "Snores or Not", "Nocturnal Habits", "Previous Attendance", "Type of Room", "Share with", "Not Share With"])
 writer.writeheader()
 f.close()
 
